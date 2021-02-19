@@ -1115,6 +1115,24 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-color: #cccccc;
 }
+.cid-spsqMgitkL {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-spsqMgitkL .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-spsqMgitkL .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-spsqMgitkL .mbr-text {
+  color: #767676;
+}
 .cid-sprIXfwslj {
   padding-top: 90px;
   padding-bottom: 90px;

@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#ff3366",
+        "primaryColor": "#39b328",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#39b328"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [
@@ -46,8 +48,8 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
